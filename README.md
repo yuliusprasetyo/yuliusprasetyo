@@ -19,4 +19,6 @@ I'm an Informatics Engineering student with interests in web development, progra
 </picture>
 
 
-![Gif](gif/animesher.com_japan-gifs-tumblr-1950513.gif)
+<div align="center">
+  <img height="200" src="gif/animesher.com_japan-gifs-tumblr-1950513.gif"  />
+</div>
