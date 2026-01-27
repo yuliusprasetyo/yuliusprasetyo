@@ -1,7 +1,14 @@
 # 👋 Hi there! I'm Yulius
 I'm an Informatics Engineering student with interests in web development, programming, and cybersecurity. I enjoy learning new technologies, working on small projects, and continually developing my skills 🚀
 
-![https://www.instagram.com/_tyo66?igsh=ZjV4cjBpdXoydmJu](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.tiktok.com/@ff_wibu_hengker_pro67?_r=1&_t=ZS-93QF0cZbqUu](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
+<div align="left">
+  <a href="https://www.instagram.com/_tyo66?igsh=ZjV4cjBpdXoydmJu" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
+  </a>
+  <a href="yuliusdadali@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
+  </a>
+</div>
 
 ***
 ### 💻 Languages & Tools:
@@ -20,5 +27,5 @@ I'm an Informatics Engineering student with interests in web development, progra
 
 
 <div align="center">
-  <img height="200" src="gif/animesher.com_japan-gifs-tumblr-1950513.gif"  />
+  <img height="200" width="100%" src="gif/animesher.com_japan-gifs-tumblr-1950513.gif"  />
 </div>
