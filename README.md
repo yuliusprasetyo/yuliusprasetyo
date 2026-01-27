@@ -19,4 +19,4 @@ I'm an Informatics Engineering student with interests in web development, progra
 </picture>
 
 
-![Gif](https://animesher.com/orig/1/195/1950/19505/animesher.com_japan-gifs-tumblr-1950513.gif)
+![Gif](gif/animesher.com_japan-gifs-tumblr-1950513.gif)
