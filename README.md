@@ -5,7 +5,7 @@ I'm an Informatics Engineering student with interests in web development, progra
   <a href="https://www.instagram.com/_tyo66?igsh=ZjV4cjBpdXoydmJu" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
   </a>
-  <a href="yuliusdadali30@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&to=yuliusdadali30@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
   </a>
 </div>
