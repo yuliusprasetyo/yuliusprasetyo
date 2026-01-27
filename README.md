@@ -18,14 +18,5 @@ I'm an Informatics Engineering student with interests in web development, progra
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yuliusprasetyo/yuliusprasetyo/output/pacman-contribution-graph.svg">
 </picture>
 
-###
 
-<img src="https://raw.githubusercontent.com/yuliusprasetyo/yuliusprasetyo/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img height="200" src="https://animesher.com/orig/1/195/1950/19505/animesher.com_japan-gifs-tumblr-1950513.gif"  />
-</div>
-
-###
+![Gif](https://animesher.com/orig/1/195/1950/19505/animesher.com_japan-gifs-tumblr-1950513.gif)
