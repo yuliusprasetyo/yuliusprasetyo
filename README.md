@@ -9,6 +9,7 @@ I'm an Informatics Engineering student with interests in web development, progra
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
   </a>
 </div>
+
 [![TryHackMe Stats](https://github-readme-tryhackme-stats.vercel.app/api?username=Sen9kun1&theme=dark&show_icons=true)](https://tryhackme.com/p/Sen9kun1)
 
 ***
