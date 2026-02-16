@@ -9,14 +9,11 @@ I'm an Informatics Engineering student with interests in web development, progra
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
   </a>
 </div>
+[![TryHackMe Stats](https://github-readme-tryhackme-stats.vercel.app/api?username=Sen9kun1&theme=dark&show_icons=true)](https://tryhackme.com/p/Sen9kun1)
 
 ***
 ### 💻 Languages & Tools:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-***
-### 📈 My Github Stats:
-![Yulius Prasetyo GitHub stats](https://github-readme-stats.vercel.app/api?username=yuliusprasetyo&show_icons=true&theme=dark)
 
 ***
 <picture>
